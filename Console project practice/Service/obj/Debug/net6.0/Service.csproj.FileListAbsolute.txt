@@ -1,0 +1,17 @@
+D:\C#\Console project practice first part\Console project practice\Service\bin\Debug\net6.0\Service.deps.json
+D:\C#\Console project practice first part\Console project practice\Service\bin\Debug\net6.0\Service.dll
+D:\C#\Console project practice first part\Console project practice\Service\bin\Debug\net6.0\Service.pdb
+D:\C#\Console project practice first part\Console project practice\Service\bin\Debug\net6.0\Domain.dll
+D:\C#\Console project practice first part\Console project practice\Service\bin\Debug\net6.0\Repository.dll
+D:\C#\Console project practice first part\Console project practice\Service\bin\Debug\net6.0\Repository.pdb
+D:\C#\Console project practice first part\Console project practice\Service\bin\Debug\net6.0\Domain.pdb
+D:\C#\Console project practice first part\Console project practice\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+D:\C#\Console project practice first part\Console project practice\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Console project practice first part\Console project practice\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+D:\C#\Console project practice first part\Console project practice\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+D:\C#\Console project practice first part\Console project practice\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+D:\C#\Console project practice first part\Console project practice\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+D:\C#\Console project practice first part\Console project practice\Service\obj\Debug\net6.0\Service.dll
+D:\C#\Console project practice first part\Console project practice\Service\obj\Debug\net6.0\refint\Service.dll
+D:\C#\Console project practice first part\Console project practice\Service\obj\Debug\net6.0\Service.pdb
+D:\C#\Console project practice first part\Console project practice\Service\obj\Debug\net6.0\ref\Service.dll

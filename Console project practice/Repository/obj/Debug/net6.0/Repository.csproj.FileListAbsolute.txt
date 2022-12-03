@@ -1,0 +1,15 @@
+D:\C#\Console project practice first part\Console project practice\Repository\bin\Debug\net6.0\Repository.deps.json
+D:\C#\Console project practice first part\Console project practice\Repository\bin\Debug\net6.0\Repository.dll
+D:\C#\Console project practice first part\Console project practice\Repository\bin\Debug\net6.0\Repository.pdb
+D:\C#\Console project practice first part\Console project practice\Repository\bin\Debug\net6.0\Domain.dll
+D:\C#\Console project practice first part\Console project practice\Repository\bin\Debug\net6.0\Domain.pdb
+D:\C#\Console project practice first part\Console project practice\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+D:\C#\Console project practice first part\Console project practice\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Console project practice first part\Console project practice\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+D:\C#\Console project practice first part\Console project practice\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+D:\C#\Console project practice first part\Console project practice\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+D:\C#\Console project practice first part\Console project practice\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+D:\C#\Console project practice first part\Console project practice\Repository\obj\Debug\net6.0\Repository.dll
+D:\C#\Console project practice first part\Console project practice\Repository\obj\Debug\net6.0\refint\Repository.dll
+D:\C#\Console project practice first part\Console project practice\Repository\obj\Debug\net6.0\Repository.pdb
+D:\C#\Console project practice first part\Console project practice\Repository\obj\Debug\net6.0\ref\Repository.dll
